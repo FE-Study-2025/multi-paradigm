@@ -1,4 +1,7 @@
-# multi-paradigm
+# multi-paradigm-programming study
+
+참고
+https://github.com/marpple/multi-paradigm-programming
 
 <a href="https://www.gitanimals.org/">
       <img
