@@ -1,7 +1,6 @@
 # multi-paradigm-programming study
 
-참고
-https://github.com/marpple/multi-paradigm-programming
+
 
 <a href="https://www.gitanimals.org/">
       <img
@@ -11,3 +10,11 @@ https://github.com/marpple/multi-paradigm-programming
         alt="gitanimals"
       />
 </a>
+
+
+
+![](https://image.yes24.com/goods/145367977/XL)
+
+
+
+참고) https://github.com/marpple/multi-paradigm-programming
